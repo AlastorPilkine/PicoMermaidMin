@@ -6,7 +6,7 @@ A Pico Cms plugin for mermaid.js integration
 Once the plugin is installed, you can integrate mermais graph with :
 
 ```
-\`\`\`mermaid
+```mermaid
 ```
 
 notation
